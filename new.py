@@ -1,3 +1,3 @@
 a = int(input("enter a number:"))
-print ("hi")
+print ("hi there")
 print ("your number is :" , a)
